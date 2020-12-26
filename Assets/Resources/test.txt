@@ -1,0 +1,3658 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public LoggedOut NoSidebar" xmlns:fb="//www.facebook.com/2008/fbml">
+<head>
+
+    <meta charset="utf-8" />
+<meta name="google-site-verification" content="fnjUrmd3azc4GH8dDBhYuQnAslOqYeuxnygs4oK9-Kg" />
+<meta name="bitly-verification" content="272f2f58ee21"/>
+     
+
+<script>
+document.write('<base href="' + 'https://bukkit.org/'.replace('http:', 'https:') + '" />');
+</script>
+<noscript>
+		<base href="https://bukkit.org/" />
+</noscript>
+
+	   
+    <title>Plugin Requests | Bukkit Forums</title>
+    
+    <noscript><style>.JsOnly { display: none !important; }</style></noscript>
+    <link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=10&amp;dir=LTR&amp;d=1582452534" />
+    <link rel="stylesheet" href="css.php?css=bbcm_js,discussion_list,login_bar&amp;style=10&amp;dir=LTR&amp;d=1582452534" />
+
+    
+
+    <script>
+
+	var _gaq = [['_setAccount', 'UA-20541082-1'], ['_trackPageview']];
+	!function(d, t)
+	{
+		var g = d.createElement(t),
+			s = d.getElementsByTagName(t)[0];	
+		g.async = true;
+		g.src = ('https:' == d.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g, s);
+	}
+	(document, 'script');
+
+	</script>
+    	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>	
+	
+		<script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }</script>
+		
+	<script src="js/xenforo/xenforo.js?_v=c2a3bd65"></script>
+	<script src="js/xenforo/discussion_list.js?_v=c2a3bd65"></script>
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS feed for Bukkit Forums" href="forums/-/index.rss" />
+    <meta name="description" content="Got an idea for a plugin? Post it here and someone might make it!" />
+    <link rel="next" href="forums/plugin-requests.96/page-2" />
+	<link rel="canonical" href="https://bukkit.org/forums/plugin-requests.96/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for Plugin Requests" href="forums/plugin-requests.96/index.rss" />
+<!-- Tapatalk Detect style start -->
+<style type="text/css">
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page
+{
+top:auto;
+}
+</style>
+<!-- Tapatalk Detect banner style end -->
+                
+	
+	<script type="text/javascript" src="js/kingk/bbcm/bbcodes.js"></script>
+
+
+    <script>
+        var script = document.createElement('script');
+        var tstamp = new Date();
+        script.id = 'factorem';
+        script.src = '//cdm.cursecdn.com/js/bukkit/cdmfactorem_min.js?misc=' + tstamp.getTime();
+        script.async = false;
+        script.type='text/javascript';
+        document.head.appendChild(script);
+    </script>
+
+<script type="text/javascript">
+<!--
+function bb2_addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			oldonload();
+			func();
+		}
+	}
+}
+
+bb2_addLoadEvent(function() {
+	for ( i=0; i < document.forms.length; i++ ) {
+		if (document.forms[i].method == 'post') {
+			var myElement = document.createElement('input');
+			myElement.setAttribute('type', 'hidden');
+			myElement.name = 'bb2_screener_';
+			myElement.value = '1582455748 90.203.163.106';
+			document.forms[i].appendChild(myElement);
+		}
+	}
+});
+// --></script>
+		</head>
+<body class="node96 node1">
+
+
+
+    
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			<h3 id="loginBarHandle">
+				<label for="LoginControl"><a href="login/" class="concealed noOutline">Log in or Sign up</a></label>
+			</h3>
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+    <div id="headerProxy"></div>
+
+<div id="content" class="forum_view">
+    <div class="pageWidth">
+        
+
+        
+									
+		
+		       
+                    
+<div class="atflb" style="text-align: center; margin-bottom: 25px;">
+<div id='cdm-zone-01'></div>
+</div>
+                    
+        <div class="pageContent">
+
+            <!-- main content area -->
+
+            
+                        
+
+                        
+                        <div class="breadBoxTop">
+                            
+                            
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-96" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Bukkit Forums</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://bukkit.org/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://bukkit.org/forums/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://bukkit.org/forums/#bukkit.1" class="crumb" rel="up" itemprop="url"><span itemprop="title">Bukkit</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+                        </div>
+                        
+                        
+                        
+
+                        
+                                              
+                            <!-- h1 title, description -->
+                            <div class="titleBar">
+                            	
+                                <h1>Plugin Requests</h1>
+                                
+                                <p id="pageDescription" class="muted baseHtml">Got an idea for a plugin? Post it here and someone might make it!</p>
+                            </div>
+                        
+                        
+
+                        
+                        
+                        <!-- main template -->
+                        
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="pageNavLinkGroup">
+
+	<div class="linkGroup SelectionCountContainer">
+		
+	</div>
+
+	
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="203"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="forums/plugin-requests.96/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 1 of 203</span>
+	
+	<nav>
+		
+		
+		<a href="forums/plugin-requests.96/" class="currentPage " rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden">&larr;</a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="forums/plugin-requests.96/page-2" class="">2</a>
+		
+			<a href="forums/plugin-requests.96/page-3" class="">3</a>
+		
+			<a href="forums/plugin-requests.96/page-4" class="">4</a>
+		
+			<a href="forums/plugin-requests.96/page-5" class="">5</a>
+		
+			<a href="forums/plugin-requests.96/page-6" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="forums/plugin-requests.96/page-203" class="">203</a>
+		
+		
+			<a href="forums/plugin-requests.96/page-2" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+
+</div>
+
+
+
+<div class="discussionList section sectionMain">
+	
+
+
+<form action="inline-mod/thread/switch" method="post"
+	class="DiscussionList InlineModForm"
+	data-cookieName="threads"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
+	
+	
+
+	<dl class="sectionHeaders">
+		<dt class="posterAvatar"><a><span>Sort by:</span></a></dt>
+		<dd class="main">
+			<a href="forums/plugin-requests.96/?order=title" class="title"><span>Title</span></a>
+			<a href="forums/plugin-requests.96/?order=post_date" class="postDate"><span>Start Date</span></a>
+		</dd>
+		<dd class="stats">
+			<a href="forums/plugin-requests.96/?order=reply_count" class="major"><span>Replies</span></a>
+			<a href="forums/plugin-requests.96/?order=view_count" class="minor"><span>Views</span></a>
+		</dd>
+		<dd class="lastPost"><a href="forums/plugin-requests.96/?direction=asc"><span>Last Message &darr;</span></a></dd>
+	</dl>
+
+	<ol class="discussionListItems">
+	
+		
+		
+	
+		<li class="sectionHeaders">&nbsp;&nbsp;&raquo; Sticky Threads</li>
+		
+			
+
+
+
+<li id="thread-81209" class="discussionListItem visible locked sticky  " data-author="mbaxter">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/mbaxter.766/" class="avatar Av766s" data-avatarhtml="true"><img src="data/avatars/s/0/766.jpg?1420046695" width="48" height="48" alt="mbaxter" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+				<div class="iconKey">
+				
+					
+					
+					<span class="locked" title="Locked">Locked</span>
+					<span class="sticky" title="Sticky">Sticky</span>
+					
+					
+					
+				
+				</div>
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/read-me-first-plugin-requests-guide.81209/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/read-me-first-plugin-requests-guide.81209/preview">[READ ME FIRST] Plugin Requests Guide</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/mbaxter.766/" class="username" dir="auto" title="Thread starter">mbaxter</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Jun 16, 2012</span></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/read-me-first-plugin-requests-guide.81209/page-4">4</a>
+							
+								<a href="threads/read-me-first-plugin-requests-guide.81209/page-5">5</a>
+							
+								<a href="threads/read-me-first-plugin-requests-guide.81209/page-6">6</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 42">
+		<dl class="major"><dt>Replies:</dt> <dd>164</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>135,361</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/harryx.91233040/" class="username" dir="auto">HarryX</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Oct 26, 2016 at 8:59 PM">Oct 26, 2016</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+		
+		
+		
+		
+		<li class="sectionHeaders">&nbsp;&nbsp;&raquo; Normal Threads</li>
+		
+			
+
+
+
+<li id="thread-485056" class="discussionListItem visible  " data-author="AlwaysAllstar">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/alwaysallstar.91327946/" class="avatar Av91327946s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="AlwaysAllstar" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/worldguard-chest-access.485056/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/worldguard-chest-access.485056/preview">WorldGuard Chest Access</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/alwaysallstar.91327946/" class="username" dir="auto" title="Thread starter">AlwaysAllstar</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582316174" data-diff="139574" data-datestring="Feb 21, 2020" data-timestring="12:16 PM">Feb 21, 2020 at 12:16 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>704</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/alwaysallstar.91327946/" class="username" dir="auto">AlwaysAllstar</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582428251" data-diff="27497" data-datestring="Feb 22, 2020" data-timestring="7:24 PM">Feb 22, 2020 at 7:24 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-485074" class="discussionListItem visible  " data-author="MPG1">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/mpg1.91333348/" class="avatar Av91333348s" data-avatarhtml="true"><img src="https://secure.gravatar.com/avatar/9626d72e48070078fba49906ef3a98b6?s=48&amp;d=https%3A%2F%2Fbukkit.org%2Fstyles%2Fflexile%2Fxenforo%2Favatars%2Favatar_male_s.png" width="48" height="48" alt="MPG1" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/chunk-deleter.485074/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/chunk-deleter.485074/preview">Chunk Deleter</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/mpg1.91333348/" class="username" dir="auto" title="Thread starter">MPG1</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582402317" data-diff="53431" data-datestring="Feb 22, 2020" data-timestring="12:11 PM">Feb 22, 2020 at 12:11 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>4</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>4,650</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/zombie_striker.90867807/" class="username" dir="auto">Zombie_Striker</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582413429" data-diff="42319" data-datestring="Feb 22, 2020" data-timestring="3:17 PM">Feb 22, 2020 at 3:17 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484751" class="discussionListItem visible  " data-author="CVFD">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/cvfd.91334854/" class="avatar Av91334854s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="CVFD" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/plugin-that-slowly-deletes-every-chunk-that-you-go-in.484751/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/plugin-that-slowly-deletes-every-chunk-that-you-go-in.484751/preview">Plugin that slowly deletes every chunk that you go in</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/cvfd.91334854/" class="username" dir="auto" title="Thread starter">CVFD</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 8, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>7</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>3,924</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/gh0stkitty.91328263/" class="username" dir="auto">Gh0stKitty</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582410132" data-diff="45616" data-datestring="Feb 22, 2020" data-timestring="2:22 PM">Feb 22, 2020 at 2:22 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-485073" class="discussionListItem visible  " data-author="MPG1">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/mpg1.91333348/" class="avatar Av91333348s" data-avatarhtml="true"><img src="https://secure.gravatar.com/avatar/9626d72e48070078fba49906ef3a98b6?s=48&amp;d=https%3A%2F%2Fbukkit.org%2Fstyles%2Fflexile%2Fxenforo%2Favatars%2Favatar_male_s.png" width="48" height="48" alt="MPG1" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/simple-claims-plugin.485073/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/simple-claims-plugin.485073/preview">Simple Claims Plugin:</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/mpg1.91333348/" class="username" dir="auto" title="Thread starter">MPG1</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582401816" data-diff="53932" data-datestring="Feb 22, 2020" data-timestring="12:03 PM">Feb 22, 2020 at 12:03 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>507</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/ironinventor1.91331002/" class="username" dir="auto">ironinventor1</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582408820" data-diff="46928" data-datestring="Feb 22, 2020" data-timestring="2:00 PM">Feb 22, 2020 at 2:00 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-485070" class="discussionListItem visible  " data-author="IGabe2008">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/igabe2008.91335388/" class="avatar Av91335388s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="IGabe2008" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/grant-plugin-needed.485070/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/grant-plugin-needed.485070/preview">/grant Plugin Needed!</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/igabe2008.91335388/" class="username" dir="auto" title="Thread starter">IGabe2008</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582373181" data-diff="82567" data-datestring="Feb 22, 2020" data-timestring="4:06 AM">Feb 22, 2020 at 4:06 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,018</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/ironinventor1.91331002/" class="username" dir="auto">ironinventor1</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582408370" data-diff="47378" data-datestring="Feb 22, 2020" data-timestring="1:52 PM">Feb 22, 2020 at 1:52 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-485033" class="discussionListItem visible prefix11  " data-author="Spiralio">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/spiralio.91335332/" class="avatar Av91335332s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Spiralio" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/grave-plugin-for-an-smp.485033/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/grave-plugin-for-an-smp.485033/preview">Grave Plugin for an SMP</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/spiralio.91335332/" class="username" dir="auto" title="Thread starter">Spiralio</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582266131" data-diff="189617" data-datestring="Feb 20, 2020" data-timestring="10:22 PM">Feb 20, 2020 at 10:22 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>8</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>6,024</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582407630" data-diff="48118" data-datestring="Feb 22, 2020" data-timestring="1:40 PM">Feb 22, 2020 at 1:40 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484958" class="discussionListItem visible  " data-author="Xp10d3">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/xp10d3.91324024/" class="avatar Av91324024s" data-avatarhtml="true"><img src="data/avatars/s/91324/91324024.jpg?1576879689" width="48" height="48" alt="Xp10d3" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/per-world-inventories-and-per-world-xp.484958/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/per-world-inventories-and-per-world-xp.484958/preview">Per-World Inventories and Per-World XP</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/xp10d3.91324024/" class="username" dir="auto" title="Thread starter">Xp10d3</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582086446" data-diff="369302" data-datestring="Feb 18, 2020" data-timestring="8:27 PM">Feb 18, 2020 at 8:27 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>10</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,871</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582405630" data-diff="50118" data-datestring="Feb 22, 2020" data-timestring="1:07 PM">Feb 22, 2020 at 1:07 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484741" class="discussionListItem visible prefix11  " data-author="Alkia">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/alkia.91332365/" class="avatar Av91332365s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="Alkia" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/growth-step.484741/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/growth-step.484741/preview">Growth Step</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/alkia.91332365/" class="username" dir="auto" title="Thread starter">Alkia</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 7, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>6</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>4,226</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/alkia.91332365/" class="username" dir="auto">Alkia</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582401632" data-diff="54116" data-datestring="Feb 22, 2020" data-timestring="12:00 PM">Feb 22, 2020 at 12:00 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-485069" class="discussionListItem visible  " data-author="1sh">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/1sh.91335387/" class="avatar Av91335387s" data-avatarhtml="true"><img src="https://secure.gravatar.com/avatar/121f9000d04489234eff63c4427ad3e7?s=48&amp;d=https%3A%2F%2Fbukkit.org%2Fstyles%2Fflexile%2Fxenforo%2Favatars%2Favatar_male_s.png" width="48" height="48" alt="1sh" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/a-bizzare-request.485069/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/a-bizzare-request.485069/preview">A bizzare request</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/1sh.91335387/" class="username" dir="auto" title="Thread starter">1sh</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582372123" data-diff="83625" data-datestring="Feb 22, 2020" data-timestring="3:48 AM">Feb 22, 2020 at 3:48 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>679</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/neymar11.90971144/" class="username" dir="auto">Neymar11</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582372964" data-diff="82784" data-datestring="Feb 22, 2020" data-timestring="4:02 AM">Feb 22, 2020 at 4:02 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484783" class="discussionListItem visible  " data-author="Evokan">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/evokan.91334915/" class="avatar Av91334915s" data-avatarhtml="true"><img src="data/avatars/s/91334/91334915.jpg?1581544615" width="48" height="48" alt="Evokan" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/open-world-zombie-survival.484783/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/open-world-zombie-survival.484783/preview">Open World Zombie Survival?</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/evokan.91334915/" class="username" dir="auto" title="Thread starter">Evokan</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 10, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>10</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>14,836</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/evokan.91334915/" class="username" dir="auto">Evokan</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582325794" data-diff="129954" data-datestring="Feb 21, 2020" data-timestring="2:56 PM">Feb 21, 2020 at 2:56 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484909" class="discussionListItem visible  " data-author="AlwaysAllstar">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/alwaysallstar.91327946/" class="avatar Av91327946s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="AlwaysAllstar" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/projectile-block-damage.484909/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/projectile-block-damage.484909/preview">Projectile Block Damage</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/alwaysallstar.91327946/" class="username" dir="auto" title="Thread starter">AlwaysAllstar</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 16, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>3</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,688</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582314784" data-diff="140964" data-datestring="Feb 21, 2020" data-timestring="11:53 AM">Feb 21, 2020 at 11:53 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484992" class="discussionListItem visible  " data-author="AlwaysAllstar">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/alwaysallstar.91327946/" class="avatar Av91327946s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="AlwaysAllstar" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/sell-nbt-items.484992/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/sell-nbt-items.484992/preview">Sell NBT Items</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/alwaysallstar.91327946/" class="username" dir="auto" title="Thread starter">AlwaysAllstar</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582138830" data-diff="316918" data-datestring="Feb 19, 2020" data-timestring="11:00 AM">Feb 19, 2020 at 11:00 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>4</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,521</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/alwaysallstar.91327946/" class="username" dir="auto">AlwaysAllstar</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582306133" data-diff="149615" data-datestring="Feb 21, 2020" data-timestring="9:28 AM">Feb 21, 2020 at 9:28 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-485028" class="discussionListItem visible  " data-author="Synceh">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/synceh.91335327/" class="avatar Av91335327s" data-avatarhtml="true"><img src="data/avatars/s/91335/91335327.jpg?1582390985" width="48" height="48" alt="Synceh" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/pickaxesell.485028/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/pickaxesell.485028/preview">PickaxeSell</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/synceh.91335327/" class="username" dir="auto" title="Thread starter">Synceh</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582259681" data-diff="196067" data-datestring="Feb 20, 2020" data-timestring="8:34 PM">Feb 20, 2020 at 8:34 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,393</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582300990" data-diff="154758" data-datestring="Feb 21, 2020" data-timestring="8:03 AM">Feb 21, 2020 at 8:03 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484837" class="discussionListItem visible  " data-author="Hades_">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/hades_.91333672/" class="avatar Av91333672s" data-avatarhtml="true"><img src="data/avatars/s/91333/91333672.jpg?1580933817" width="48" height="48" alt="Hades_" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/die-when-disconnect-in-certain-area.484837/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/die-when-disconnect-in-certain-area.484837/preview">Die When Disconnect in certain Area</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/hades_.91333672/" class="username" dir="auto" title="Thread starter">Hades_</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 12, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>6,541</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/hades_.91333672/" class="username" dir="auto">Hades_</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582259434" data-diff="196314" data-datestring="Feb 20, 2020" data-timestring="8:30 PM">Feb 20, 2020 at 8:30 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484070" class="discussionListItem visible  " data-author="Invenstory">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/invenstory.91311798/" class="avatar Av91311798s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Invenstory" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/gui-plugin.484070/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/gui-plugin.484070/preview">GUI Plugin</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/invenstory.91311798/" class="username" dir="auto" title="Thread starter">Invenstory</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Jan 16, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>27</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>10,219</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582225871" data-diff="229877" data-datestring="Feb 20, 2020" data-timestring="11:11 AM">Feb 20, 2020 at 11:11 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484664" class="discussionListItem visible  " data-author="Capyryan">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/capyryan.91334724/" class="avatar Av91334724s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Capyryan" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/a-simple-http-server-listening-to-post-requests.484664/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/a-simple-http-server-listening-to-post-requests.484664/preview">A simple HTTP server listening to POST requests</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/capyryan.91334724/" class="username" dir="auto" title="Thread starter">Capyryan</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 5, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,646</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582225104" data-diff="230644" data-datestring="Feb 20, 2020" data-timestring="10:58 AM">Feb 20, 2020 at 10:58 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484166" class="discussionListItem visible  " data-author="Deadly_Dream">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/deadly_dream.91333976/" class="avatar Av91333976s" data-avatarhtml="true"><img src="data/avatars/s/91333/91333976.jpg?1579582775" width="48" height="48" alt="Deadly_Dream" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/darker-night.484166/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/darker-night.484166/preview">Darker Night</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/deadly_dream.91333976/" class="username" dir="auto" title="Thread starter">Deadly_Dream</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Jan 20, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>3</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>2,753</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582225042" data-diff="230706" data-datestring="Feb 20, 2020" data-timestring="10:57 AM">Feb 20, 2020 at 10:57 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484740" class="discussionListItem visible  " data-author="Steeeef">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/steeeef.91334823/" class="avatar Av91334823s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Steeeef" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/sign-edit-plugin.484740/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/sign-edit-plugin.484740/preview">sign edit plugin</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/steeeef.91334823/" class="username" dir="auto" title="Thread starter">Steeeef</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 7, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>2,570</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582224911" data-diff="230837" data-datestring="Feb 20, 2020" data-timestring="10:55 AM">Feb 20, 2020 at 10:55 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484701" class="discussionListItem visible  " data-author="Jamesol1">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/jamesol1.90761563/" class="avatar Av90761563s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Jamesol1" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/stormlands.484701/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/stormlands.484701/preview">Stormlands</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/jamesol1.90761563/" class="username" dir="auto" title="Thread starter">Jamesol1</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 6, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>7</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>2,068</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582224803" data-diff="230945" data-datestring="Feb 20, 2020" data-timestring="10:53 AM">Feb 20, 2020 at 10:53 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-483542" class="discussionListItem visible  " data-author="Smurfamel">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/smurfamel.91322749/" class="avatar Av91322749s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="Smurfamel" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/catsattack.483542/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/catsattack.483542/preview">CatsAttack</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/smurfamel.91322749/" class="username" dir="auto" title="Thread starter">Smurfamel</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Dec 29, 2019</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>11</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>5,325</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582224626" data-diff="231122" data-datestring="Feb 20, 2020" data-timestring="10:50 AM">Feb 20, 2020 at 10:50 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484626" class="discussionListItem visible prefix11  " data-author="AlwaysAllstar">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/alwaysallstar.91327946/" class="avatar Av91327946s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="AlwaysAllstar" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/redeemperks.484626/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/redeemperks.484626/preview">RedeemPerks</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/alwaysallstar.91327946/" class="username" dir="auto" title="Thread starter">AlwaysAllstar</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 4, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>14</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>11,123</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/epicgodmc.91332766/" class="username" dir="auto">EpicGodMC</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582222902" data-diff="232846" data-datestring="Feb 20, 2020" data-timestring="10:21 AM">Feb 20, 2020 at 10:21 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484808" class="discussionListItem visible  " data-author="Mr_Whiskyflame">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/mr_whiskyflame.91316083/" class="avatar Av91316083s" data-avatarhtml="true"><img src="data/avatars/s/91316/91316083.jpg?1547212654" width="48" height="48" alt="Mr_Whiskyflame" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/toast-messages.484808/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/toast-messages.484808/preview">Toast Messages</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/mr_whiskyflame.91316083/" class="username" dir="auto" title="Thread starter">Mr_Whiskyflame</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 11, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>3</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>13,762</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582222789" data-diff="232959" data-datestring="Feb 20, 2020" data-timestring="10:19 AM">Feb 20, 2020 at 10:19 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484267" class="discussionListItem visible  " data-author="dry_dan">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/dry_dan.91324729/" class="avatar Av91324729s" data-avatarhtml="true"><img src="data/avatars/s/91324/91324729.jpg?1561024046" width="48" height="48" alt="dry_dan" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/player-distence-tracker.484267/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/player-distence-tracker.484267/preview">Player Distence Tracker</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/dry_dan.91324729/" class="username" dir="auto" title="Thread starter">dry_dan</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Jan 23, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,576</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582222067" data-diff="233681" data-datestring="Feb 20, 2020" data-timestring="10:07 AM">Feb 20, 2020 at 10:07 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484991" class="discussionListItem visible prefix11  " data-author="AlwaysAllstar">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/alwaysallstar.91327946/" class="avatar Av91327946s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="AlwaysAllstar" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/disable-armor-stand-use.484991/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/disable-armor-stand-use.484991/preview">Disable Armor Stand Use</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/alwaysallstar.91327946/" class="username" dir="auto" title="Thread starter">AlwaysAllstar</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1582138087" data-diff="317661" data-datestring="Feb 19, 2020" data-timestring="10:48 AM">Feb 19, 2020 at 10:48 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,125</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/alwaysallstar.91327946/" class="username" dir="auto">AlwaysAllstar</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582214361" data-diff="241387" data-datestring="Feb 20, 2020" data-timestring="7:59 AM">Feb 20, 2020 at 7:59 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484621" class="discussionListItem visible  " data-author="Croofix">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/croofix.91334660/" class="avatar Av91334660s" data-avatarhtml="true"><img src="data/avatars/s/91334/91334660.jpg?1580846960" width="48" height="48" alt="Croofix" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/moneyblock.484621/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/moneyblock.484621/preview">MoneyBlock</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/croofix.91334660/" class="username" dir="auto" title="Thread starter">Croofix</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 4, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>15</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>9,310</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/croofix.91334660/" class="username" dir="auto">Croofix</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1582188645" data-diff="267103" data-datestring="Feb 20, 2020" data-timestring="12:50 AM">Feb 20, 2020 at 12:50 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-482739" class="discussionListItem visible prefix11  " data-author="Gh0stKitty">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/gh0stkitty.91328263/" class="avatar Av91328263s" data-avatarhtml="true"><img src="data/avatars/s/91328/91328263.jpg?1566760813" width="48" height="48" alt="Gh0stKitty" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/better-weather.482739/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/better-weather.482739/preview">Better Weather</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/gh0stkitty.91328263/" class="username" dir="auto" title="Thread starter">Gh0stKitty</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Nov 30, 2019</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>25</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>14,940</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/gh0stkitty.91328263/" class="username" dir="auto">Gh0stKitty</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1581989334" data-diff="466414" data-datestring="Feb 17, 2020" data-timestring="5:28 PM">Feb 17, 2020 at 5:28 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484809" class="discussionListItem visible  " data-author="VNGC">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/vngc.91334406/" class="avatar Av91334406s" data-avatarhtml="true"><img src="https://secure.gravatar.com/avatar/f2291d7e301308f59cb8d2ccda234490?s=48&amp;d=https%3A%2F%2Fbukkit.org%2Fstyles%2Fflexile%2Fxenforo%2Favatars%2Favatar_male_s.png" width="48" height="48" alt="VNGC" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/upcounting-timer-plugin.484809/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/upcounting-timer-plugin.484809/preview">Upcounting Timer Plugin</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/vngc.91334406/" class="username" dir="auto" title="Thread starter">VNGC</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 11, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>13,504</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/vngc.91334406/" class="username" dir="auto">VNGC</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 15, 2020 at 2:39 PM">Feb 15, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484862" class="discussionListItem visible  " data-author="Birdsbirdsbirds">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/birdsbirdsbirds.91335062/" class="avatar Av91335062s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="Birdsbirdsbirds" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/food-hunger-customisation.484862/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/food-hunger-customisation.484862/preview">Food/Hunger Customisation</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/birdsbirdsbirds.91335062/" class="username" dir="auto" title="Thread starter">Birdsbirdsbirds</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 13, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>0</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,698</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/birdsbirdsbirds.91335062/" class="username" dir="auto">Birdsbirdsbirds</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 13, 2020 at 8:56 PM">Feb 13, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484851" class="discussionListItem visible  " data-author="Mr_Whiskyflame">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/mr_whiskyflame.91316083/" class="avatar Av91316083s" data-avatarhtml="true"><img src="data/avatars/s/91316/91316083.jpg?1547212654" width="48" height="48" alt="Mr_Whiskyflame" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/multiblock-crafting.484851/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/multiblock-crafting.484851/preview">Multiblock crafting</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/mr_whiskyflame.91316083/" class="username" dir="auto" title="Thread starter">Mr_Whiskyflame</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 13, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>0</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,248</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/mr_whiskyflame.91316083/" class="username" dir="auto">Mr_Whiskyflame</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 13, 2020 at 2:34 AM">Feb 13, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-483916" class="discussionListItem visible prefix11  " data-author="A2Zkiller">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/a2zkiller.91333559/" class="avatar Av91333559s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="A2Zkiller" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/player-tracker.483916/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/player-tracker.483916/preview">Player Tracker</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/a2zkiller.91333559/" class="username" dir="auto" title="Thread starter">A2Zkiller</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Jan 10, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>9</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>5,851</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/blackscorpyon04.91314374/" class="username" dir="auto">BlackScorpyon04</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 12, 2020 at 11:30 PM">Feb 12, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484669" class="discussionListItem visible prefix11  " data-author="Hades_">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/hades_.91333672/" class="avatar Av91333672s" data-avatarhtml="true"><img src="data/avatars/s/91333/91333672.jpg?1580933817" width="48" height="48" alt="Hades_" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/tpa-plugin.484669/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/tpa-plugin.484669/preview">TPA Plugin</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/hades_.91333672/" class="username" dir="auto" title="Thread starter">Hades_</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 5, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>11</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>9,045</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/hades_.91333672/" class="username" dir="auto">Hades_</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 12, 2020 at 6:16 PM">Feb 12, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484832" class="discussionListItem visible  " data-author="Patty_Mayo">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/patty_mayo.91334965/" class="avatar Av91334965s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Patty_Mayo" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/custom-police-plugin.484832/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/custom-police-plugin.484832/preview">Custom Police Plugin</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/patty_mayo.91334965/" class="username" dir="auto" title="Thread starter">Patty_Mayo</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 12, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>0</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>4,315</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/patty_mayo.91334965/" class="username" dir="auto">Patty_Mayo</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 12, 2020 at 11:49 AM">Feb 12, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484468" class="discussionListItem visible prefix11  " data-author="Xp10d3">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/xp10d3.91324024/" class="avatar Av91324024s" data-avatarhtml="true"><img src="data/avatars/s/91324/91324024.jpg?1576879689" width="48" height="48" alt="Xp10d3" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/updated-perworldplugins.484468/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/updated-perworldplugins.484468/preview">Updated PerWorldPlugins</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/xp10d3.91324024/" class="username" dir="auto" title="Thread starter">Xp10d3</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Jan 30, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>17</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>3,931</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 11, 2020 at 6:06 PM">Feb 11, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484700" class="discussionListItem visible prefix11  " data-author="Croofix">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/croofix.91334660/" class="avatar Av91334660s" data-avatarhtml="true"><img src="data/avatars/s/91334/91334660.jpg?1580846960" width="48" height="48" alt="Croofix" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+					
+						<a href="forums/plugin-requests.96/?prefix_id=11" class="prefixLink"
+							title="Show only threads prefixed by 'Filled'."><span class="prefix prefixGreen">Filled</span></a>
+					
+				
+				<a href="threads/openchant.484700/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/openchant.484700/preview">OPEnchant</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/croofix.91334660/" class="username" dir="auto" title="Thread starter">Croofix</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 6, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>20</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>5,727</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/croofix.91334660/" class="username" dir="auto">Croofix</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 11, 2020 at 8:40 AM">Feb 11, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484756" class="discussionListItem visible  " data-author="Deprescion">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/deprescion.91334862/" class="avatar Av91334862s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Deprescion" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/assassins.484756/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/assassins.484756/preview">Assassins</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/deprescion.91334862/" class="username" dir="auto" title="Thread starter">Deprescion</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 9, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,670</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/xp10d3.91324024/" class="username" dir="auto">Xp10d3</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 10, 2020 at 9:47 AM">Feb 10, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484749" class="discussionListItem visible  " data-author="notTimoel">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/nottimoel.91334849/" class="avatar Av91334849s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_s.png" width="48" height="48" alt="notTimoel" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/watching-movies-ingame.484749/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/watching-movies-ingame.484749/preview">watching Movies ingame</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/nottimoel.91334849/" class="username" dir="auto" title="Thread starter">notTimoel</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 8, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>3,744</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/travja.90628520/" class="username" dir="auto">travja</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 9, 2020 at 1:19 PM">Feb 9, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484747" class="discussionListItem visible  " data-author="Balmys">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/balmys.91334843/" class="avatar Av91334843s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Balmys" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/enchant-gui-plugin.484747/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/enchant-gui-plugin.484747/preview">Enchant GUI Plugin</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/balmys.91334843/" class="username" dir="auto" title="Thread starter">Balmys</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 8, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,439</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/wand555.90935001/" class="username" dir="auto">wand555</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 8, 2020 at 3:57 PM">Feb 8, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484746" class="discussionListItem visible locked  " data-author="CHR1SMC">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/chr1smc.91334842/" class="avatar Av91334842s" data-avatarhtml="true"><img src="data/avatars/s/91334/91334842.jpg?1581172998" width="48" height="48" alt="CHR1SMC" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+				<div class="iconKey">
+				
+					
+					
+					<span class="locked" title="Locked">Locked</span>
+					
+					
+					
+					
+				
+				</div>
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/bungeecord-staff-join-messages.484746/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/bungeecord-staff-join-messages.484746/preview">Bungeecord Staff Join Messages</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/chr1smc.91334842/" class="username" dir="auto" title="Thread starter">CHR1SMC</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 8, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,373</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/timtower.87695/" class="username" dir="auto">timtower</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 8, 2020 at 7:48 AM">Feb 8, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484739" class="discussionListItem visible  " data-author="VIGOR">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/vigor.91333714/" class="avatar Av91333714s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="VIGOR" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/harry-potter-sorting-hat-plugin.484739/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/harry-potter-sorting-hat-plugin.484739/preview">Harry Potter Sorting Hat Plugin</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/vigor.91333714/" class="username" dir="auto" title="Thread starter">VIGOR</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Feb 7, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>2,420</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/vigor.91333714/" class="username" dir="auto">VIGOR</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 8, 2020 at 6:55 AM">Feb 8, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-484314" class="discussionListItem visible  " data-author="Mixo3">
+	
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/mixo3.91334205/" class="avatar Av91334205s" data-avatarhtml="true"><img src="styles/flexile/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Mixo3" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/faster-boats.484314/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/faster-boats.484314/preview">Faster Boats</a>
+				
+			</h3>
+
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/mixo3.91334205/" class="username" dir="auto" title="Thread starter">Mixo3</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Jan 25, 2020</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>7</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>2,383</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+				<dt><a href="members/wand555.90935001/" class="username" dir="auto">wand555</a></dt>
+				<dd class="muted"><a class="dateTime"><span class="DateTime" title="Feb 7, 2020 at 8:26 AM">Feb 7, 2020</span></a></dd>
+			</dl>
+		
+	</div>
+
+</li>
+
+
+		
+		
+		
+		
+	
+	
+	</ol>
+
+	
+		<div class="sectionFooter InlineMod SelectionCountContainer">
+			<span class="contentSummary">Showing threads 1 to 40 of 8,081</span>
+
+			
+		</div>
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+</form>
+
+<h3 id="DiscussionListOptionsHandle" class="JsOnly"><a href="#">Thread Display Options</a></h3>
+
+<form action="forums/plugin-requests.96/" method="post" class="DiscussionListOptions secondaryContent">
+
+	
+	<div class="controlGroup">
+		<label for="ctrl_order">Sort threads by:</label>
+		<select name="order" id="ctrl_order" class="textCtrl">
+			<option value="last_post_date"  selected="selected">Last message time</option>
+			<option value="post_date" >Thread creation time</option>
+			<option value="title" >Title (alphabetical)</option>
+			<option value="reply_count" >Number of replies</option>
+			<option value="view_count" >Number of views</option>
+			<option value="first_post_likes" >First message likes</option>
+		</select>
+	</div>
+
+	<div class="controlGroup">
+		<label for="ctrl_direction">Order threads in:</label>
+		<select name="direction" id="ctrl_direction" class="textCtrl">
+			<option value="desc"  selected="selected">Descending order</option>
+			<option value="asc" >Ascending order</option>
+		</select>
+	</div>
+	
+	
+		<div class="controlGroup">
+			<label for="ctrl_prefix_id">Prefix:</label>
+			<select name="prefix_id" id="ctrl_prefix_id" class="textCtrl">
+				<option value="0"  selected="selected">(Any)</option>
+				
+					
+						<optgroup label="Plugin Request Thread Status">
+						
+							<option value="11" >Filled</option>
+						
+						</optgroup>
+					
+				
+					
+						<optgroup label="Admin">
+						
+							<option value="25" >Rules</option>
+						
+							<option value="62" >Curse Official</option>
+						
+						</optgroup>
+					
+				
+			</select>
+		</div>
+	
+
+	<div class="buttonGroup">
+		<input type="submit" class="button primary" value="Set Options" />
+		<input type="reset" class="button" value="Cancel" />
+	</div>
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+</form>
+
+<div id="PreviewTooltip">
+	<span class="arrow"><span></span></span>
+	
+	<div class="section">
+		<div class="primaryContent previewContent">
+			<span class="PreviewContents">Loading...</span>
+		</div>
+	</div>
+</div>
+</div>
+	
+<div class="pageNavLinkGroup afterDiscussionListHandle">
+	<div class="linkGroup">
+		
+			<label for="LoginControl"><a href="login/" class="concealed element">(You must log in or sign up to post here.)</a></label>
+		
+	</div>
+	<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Show hidden content by ">Show Ignored Content</a></div>
+	
+	
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="203"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="forums/plugin-requests.96/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 1 of 203</span>
+	
+	<nav>
+		
+		
+		<a href="forums/plugin-requests.96/" class="currentPage " rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden">&larr;</a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="forums/plugin-requests.96/page-2" class="">2</a>
+		
+			<a href="forums/plugin-requests.96/page-3" class="">3</a>
+		
+			<a href="forums/plugin-requests.96/page-4" class="">4</a>
+		
+			<a href="forums/plugin-requests.96/page-5" class="">5</a>
+		
+			<a href="forums/plugin-requests.96/page-6" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="forums/plugin-requests.96/page-203" class="">203</a>
+		
+		
+			<a href="forums/plugin-requests.96/page-2" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+</div>
+
+                        
+                        
+                        
+                            <!-- login form, to be moved to the upper drop-down -->
+                            
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm " id="login" style="display:none">
+
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you already have an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Yes, my password is:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a>
+</div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/forums/plugin-requests.96/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+                        
+                        
+                    
+            
+            <div class="breadBoxBottom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-96" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Bukkit Forums</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="https://bukkit.org/" class="crumb"><span>Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="https://bukkit.org/forums/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust">
+						<a href="https://bukkit.org/forums/#bukkit.1" class="crumb"><span>Bukkit</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div>
+
+
+        </div>
+
+        
+    </div>
+     
+            
+<div class="btflb" style="text-align: center; margin-top: 25px;">
+<div id='cdm-zone-04'></div>
+</div>
+            
+</div>
+
+<header>
+    
+<div id="header">
+	
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+
+
+
+
+
+			
+			<div id="logo"><a href="http://bukkit.org/forums/">
+				<span></span>
+				<img src="/logo.png" alt="Bukkit Forums" />
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+<div class="secondaryBar"></div>
+<div id="navigation" class="pageWidth">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+			
+				<li class="navTab portal Popup PopupControl PopupClosed">
+			
+				<a href="https://bukkit.org/" class="navLink">Home</a>
+				<!--<a href="https://bukkit.org/" class="SplitCtrl" rel="Menu"></a>-->
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3>Home</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	
+	<li><a href="recent-activity/">Recent Activity</a></li>
+	<li><a href="find-new/threads">What's New?</a></li>
+	<li><a href="help/">Help</a></li>
+	
+</ul>
+				</div>
+			</li>
+			
+		
+		
+		
+		
+		<!-- forums -->
+		
+			
+				<li class="navTab forums selected">
+					<a href="https://bukkit.org/forums/" class="navLink">Forums</a>
+					<!--<a href="https://bukkit.org/forums/" class="SplitCtrl" rel="Menu"></a>-->
+					
+					<div class="tabLinks">
+						<div class="primaryContent menuHeader">
+							<h3>Forums</h3>
+							<div class="muted">Quick Links</div>
+						</div>
+						<ul class="secondaryContent blockLinksList">
+						
+							
+							<li><a href="https://bukkit.org/members/">Members</a></li>
+							<!-- STAFF LINK -->
+							<li><a href="/XenStaff/">Staff</a></li>
+							<!-- END STAFF LINK -->
+							<li><a href="search/?type=post">Search Forums</a></li>
+							
+							<li><a href="find-new/threads">What's New?</a></li>
+						
+						</ul>
+					</div>
+				</li>
+			
+				
+		
+		
+		
+		<!-- extra tabs -->
+		
+		
+		
+		<!-- members -->
+				
+		
+		<!-- help -->
+		
+
+		
+		<!-- extra tabs: end -->
+		
+<li class="navTab PopupClosed">
+					<a href="/help/terms" class="navLink">Rules</a>
+					
+				</li>
+			
+			
+		
+			
+				<li class="navTab PopupClosed">
+					<a href="https://bukkit.gamepedia.com/" class="navLink">Docs</a>
+					
+				</li>
+				<!-- Removed for now.
+				<li class="navTab PopupClosed">
+					<a href="https://bukkit.gamepedia.com/Getting_Involved" class="navLink">Get Involved</a>
+				</li>		
+				-->
+			
+				<li class="navTab PopupClosed">
+					<a href="pages/about-us/" class="navLink">About Us</a>
+				</li>
+			
+		
+			
+				<li class="navTab PopupClosed">
+					<a href="https://bukkit.gamepedia.com/Setting_up_a_server" class="navLink">Get CraftBukkit</a>
+					
+				</li>
+			
+		
+			
+				<li class="navTab PopupClosed">
+					<a href="http://dev.bukkit.org" class="navLink">BukkitDev</a>
+					
+				</li>
+			
+		
+			
+				<li class="navTab PopupClosed">
+					<a href="https://www.curseforge.com/minecraft/bukkit-plugins" class="navLink">Get Plugins</a>
+					
+				</li>
+		
+
+		<!-- no selection -->
+		
+		
+	</ul>
+	<!-- navigation_visitor_tab include here -->
+	
+</div>
+			
+<span class="helper"></span>
+
+		</nav>	
+	</div>
+</div>
+	
+
+<div id="searchBar" class="pageWidth">
+	
+	<!-- <span id="QuickSearchPlaceholder" title="Search">Search</span> -->
+	<fieldset id="QuickSearch">
+		<form action="search/search" method="post" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names with a comma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Search only Plugin Requests"><input type="checkbox" name="nodes[]" value="96"
+	id="search_bar_nodes" class="Disabler AutoChecker" checked="checked"
+	data-uncheck="#search_bar_thread" /> Search this forum only</label>
+	<ul id="search_bar_nodes_Disabler">
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Display results as threads</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now" />
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searches" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+						<a href="search/" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</form>		
+	</fieldset>
+	
+</div>
+</div>
+
+</header>
+
+</div>
+
+<footer>
+    
+
+
+<div class="footer">
+<script type="text/javascript">
+var _gaq = _gaq || [];
+
+_gaq.push(
+    ['_setAccount', 'UA-1045810-67'],
+    ['_setDomainName', 'bukkit.org'],
+    ['_addIgnoredRef', 'bukkit.org'],
+    ['_trackPageview'],
+    ['b._setAccount', 'UA-1045810-22'],
+    ['b._setDomainName', 'bukkit.org'],
+    ['b._addIgnoredRef', 'bukkit.org'],
+    ['b._trackPageview'],
+    ['c._setAccount', 'UA-20541082-1'], 
+    ['c._trackPageview']
+);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End Google Analytics -->
+</div>
+
+<div class="footerLegal">
+<div class="PageWidth">
+<div class="pageContent">
+			<div id="copyright"></div>
+
+			<ul id="legal">
+			
+				<li><a href="help/terms">Terms and Rules</a></li>
+				
+			
+			</ul>
+</div></div>
+
+</footer>
+
+<script>
+
+
+var addTag = function(e) {
+  	e.preventDefault();
+  	var editor = $(".redactor_BbCodeWysiwygEditor")[0].contentWindow.document.body;
+  	$(".placeholder").remove()
+  	if (editor.innerHTML == "<p><br></p>") {
+  		editor.innerHTML = $(this).attr("data-content");
+  		return;
+  	} else if (editor.innerHTML.substr(editor.innerHTML.length - 6) != "&nbsp;") {
+  		editor.innerHTML += " ";
+  	}
+  	
+	editor.innerHTML += $(this).attr("data-content");
+};
+$(".TagUser").click(addTag).show();
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1582455748,
+		today: 1582444800,
+		todayDow: 0
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"discussion_list":true,"bbcm_js":true,"login_bar":true,"js\/xenforo\/discussion_list.js?_v=c2a3bd65":true},
+	_cookieConfig: { path: "/", domain: ".bukkit.org", prefix: "f_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "c2a3bd65"
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "";
+XenForo.Facebook.forceInit = false;
+
+
+</script>
+
+
+
+
+
+<div id='cdm-zone-skin'></div>
+<div id="cdm-zone-end"></div>
+
+</body>
+</html>
