@@ -259,8 +259,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/filer/Desktop/Coding/C#/Projects/Realm Of The Chaos/Ketstore/user.keystore
-  AndroidKeyaliasName: pluginidearetriever
+  AndroidKeystoreName: '{inproject}: user.keystore'
+  AndroidKeyaliasName: plugin idea retriever
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
